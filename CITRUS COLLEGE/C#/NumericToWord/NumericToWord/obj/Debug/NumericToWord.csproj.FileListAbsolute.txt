@@ -1,0 +1,11 @@
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\bin\Debug\NumericToWord.exe.config
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\bin\Debug\NumericToWord.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\bin\Debug\NumericToWord.pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.csproj.AssemblyReference.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.NumericToWord.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.Properties.Resources.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.csproj.GenerateResource.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.csproj.CoreCompileInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\NumericToWord\NumericToWord\obj\Debug\NumericToWord.pdb
