@@ -1,0 +1,17 @@
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\bin\Debug\net6.0-windows\CSharp - Intro Part 1.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\bin\Debug\net6.0-windows\CSharp - Intro Part 1.deps.json
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\bin\Debug\net6.0-windows\CSharp - Intro Part 1.runtimeconfig.json
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\bin\Debug\net6.0-windows\CSharp - Intro Part 1.dll
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\bin\Debug\net6.0-windows\CSharp - Intro Part 1.pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.csproj.AssemblyReference.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp___Intro_Part_1.Form1.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.csproj.GenerateResource.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.AssemblyInfoInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.AssemblyInfo.cs
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.csproj.CoreCompileInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.dll
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\refint\CSharp - Intro Part 1.dll
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\CSharp - Intro Part 1.genruntimeconfig.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 1\CSharp - Intro Part 1\obj\Debug\net6.0-windows\ref\CSharp - Intro Part 1.dll

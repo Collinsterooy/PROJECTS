@@ -1,0 +1,11 @@
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\bin\Debug\CSharp - Intro Part 2.exe.config
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\bin\Debug\CSharp - Intro Part 2.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\bin\Debug\CSharp - Intro Part 2.pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.csproj.AssemblyReference.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp___Intro_Part_2.Form1.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp___Intro_Part_2.Properties.Resources.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.csproj.GenerateResource.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.csproj.CoreCompileInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\CSharp - Intro Part 2\CSharp - Intro Part 2\obj\Debug\CSharp - Intro Part 2.pdb

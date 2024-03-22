@@ -1,0 +1,11 @@
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\bin\Debug\Cards Project (Methods).exe.config
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\bin\Debug\Cards Project (Methods).exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\bin\Debug\Cards Project (Methods).pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).csproj.AssemblyReference.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).csproj.SuggestedBindingRedirects.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards_Project__Methods_.Form1.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards_Project__Methods_.Properties.Resources.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).csproj.GenerateResource.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).csproj.CoreCompileInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Cards Project (Methods)\Cards Project (Methods)\obj\Debug\Cards Project (Methods).pdb

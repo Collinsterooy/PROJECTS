@@ -1,0 +1,11 @@
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\bin\Debug\Quiz worksheet.exe.config
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\bin\Debug\Quiz worksheet.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\bin\Debug\Quiz worksheet.pdb
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.csproj.AssemblyReference.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.csproj.SuggestedBindingRedirects.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz_worksheet.Form1.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz_worksheet.Properties.Resources.resources
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.csproj.GenerateResource.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.csproj.CoreCompileInputs.cache
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.exe
+C:\Users\colli\iCloudDrive\EDUCATION\UNIVERSITY\CITRUS COLLEGE\COMPUTER SCIENCE 111\PROJECT FOLDER\Quiz worksheet\Quiz worksheet\obj\Debug\Quiz worksheet.pdb
